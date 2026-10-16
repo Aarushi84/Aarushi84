@@ -47,7 +47,7 @@ Dashboard for 35+ production stations on shop-floor screens, with live KPI track
 ## 🏆 Highlights
 
 - 🥈 2nd place, Swalambh Hackathon: 100+ teams, team of 5, Carelytics (AI-based health and fitness website)
-- 💻 DSA in Java: [LeetCode profile](REPLACE-WITH-LEETCODE-URL)
+- 💻 DSA in Java: [LeetCode profile](https://leetcode.com/u/aar_ushi0311)
 - 🎓 Dassault Systemes Technical Training Program (Top 54)
 - 🔧 Electronics Intern, Tata Cummins (2025): Arduino battery health monitor that flags early degradation
 - ☁️ Oracle Cloud Infrastructure 2025 AI Foundations Associate (98%), HCL AppScan, IBM Cloud Essentials
