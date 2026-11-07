@@ -58,8 +58,8 @@ Dashboard for 35+ production stations on shop-floor screens, with live KPI track
 ## 📊 GitHub Stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Aarushi84&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarushi84&layout=compact&hide_border=true" />
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=Aarushi84&show_icons=true&hide_border=true" />
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Aarushi84&layout=compact&hide_border=true" />
 </p>
 
 ---
